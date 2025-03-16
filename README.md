@@ -3,15 +3,15 @@
   I'm Ekaterina Belikova</h1>
 <h3 align="center">A passionate developer from Finland</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://ekaterina-belikova.netlify.app/)
+- 🔭 I’m currently working on [Weather App](https://github.com/kati818/weather-app)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, React.js and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://ekaterina-belikova.netlify.app/](https://ekaterina-belikova.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **ekaterina.belikova818@gmail.com**
+- 📫 How to reach me **katerina.belikova818@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
