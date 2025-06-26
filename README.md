@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,</h1>
   <h1 align="center">
-  I'm Ekaterina Belikova</h1>
+  I'm Ekaterina</h1>
 <h3 align="center">A passionate developer from Finland</h3>
 
 - 🔭 I’m currently working on [Weather App](https://github.com/kati818/weather-app)
